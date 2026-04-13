@@ -8,17 +8,14 @@ namespace CyberSecurityChatBot
     ///  This will handle the main chat loop, user interaction 
     ///  and response logic
     ///  </summary>
-    class ChatBot
+    internal class ChatBot
     {
-        private string Userinput;
         private string userName;
-        public ChatBot(string userInput)
+
+        public ChatBot(string userName) 
         {
-            this.Userinput = userInput;
+            this.userName = userName; 
         }
-        /// <summary>
-        /// Starts the main conversation loop.
-        /// </summary>
 
         public void Run()
         {
