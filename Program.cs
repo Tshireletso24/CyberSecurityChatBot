@@ -10,19 +10,16 @@ namespace CyberSecurityChatBot
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8; // Set the output encoding to UTF-8qq
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            //Step 1: Play voice greeting using text-to-speech
-            VoiceGreeting.Play();
+            // Step 1: Play voice greeting + Show ASCII art logo
+            voice_logo intro = new voice_logo();
 
-            //Step 2: Show ASCII art logo
-            AsciiArt.Display();
-
-            //Step 3: Capture user's name and disolay personalized welcome
+            // Step 2: Capture user's name and display personalized welcome
             UserSession session = new UserSession();
             session.StartSession();
 
-            //Final Step: Run main chatbot loop
+            // Step 3: Run main chatbot loop
             ChatBot bot = new ChatBot(session.UserName);
             bot.Run();
         }
