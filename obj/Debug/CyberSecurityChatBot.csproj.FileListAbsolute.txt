@@ -1,0 +1,11 @@
+C:\Users\tshir\source\repos\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.exe.config
+C:\Users\tshir\source\repos\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.exe
+C:\Users\tshir\source\repos\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.pdb
+C:\Users\tshir\source\repos\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.csproj.AssemblyReference.cache
+C:\Users\tshir\source\repos\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.csproj.CoreCompileInputs.cache
+C:\Users\tshir\source\repos\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.exe
+C:\Users\tshir\source\repos\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.pdb
+C:\Users\tshir\source\repos\CyberSecurityChatBot\bin\Debug\System.Drawing.Common.dll
+C:\Users\tshir\source\repos\CyberSecurityChatBot\bin\Debug\System.Drawing.Common.pdb
+C:\Users\tshir\source\repos\CyberSecurityChatBot\bin\Debug\System.Drawing.Common.xml
+C:\Users\tshir\source\repos\CyberSecurityChatBot\obj\Debug\CyberSec.5E7E792A.Up2Date
